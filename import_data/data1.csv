@@ -1,0 +1,10 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender,occupation,maritalStatus
+Rohit,Prasad,35,A-563 Rakshak Society,New Pune Road,Pune,Maharashtra,male,Engineer,Married
+Ria,Prasad1,25,A-562 Rakshak Society,New Pune Road1,Pune1,Maharashtra1,female,Doctor,Single
+Siddharth,Kumar,45,B-101 Green Park,MG Road,Bangalore,Karnataka,male,Professor,Married
+Priya,Sharma,30,C-201 Lake View Apartments,Main Street,Chennai,Tamil Nadu,female,Artist,Single
+Vivek,Patel,28,D-301 Hillside Homes,Ridge Avenue,Mumbai,Maharashtra,male,Software Developer,Single
+Sneha,Desai,22,E-401 Sunflower Gardens,Sunshine Road,Kolkata,West Bengal,female,Engineer,Married
+Amit,Joshi,65,F-501 Riverside Residency,River View Road,Delhi,Delhi,male,Retired,Married
+Anjali,Verma,70,G-201 Serene Valley,Serenity Lane,Jaipur,Rajasthan,female,Teacher,Married
+Akash,Singh,18,H-101 Green View Homes,Green Street,Hyderabad,Telangana,male,Student,Single
